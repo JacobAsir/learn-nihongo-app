@@ -1,0 +1,8 @@
+numpy==1.24.4 
+pillow==10.2.0 
+transformers==4.33.0 
+manga-ocr 
+streamlit 
+streamlit-drawable-canvas
+langchain
+langchain-groq
